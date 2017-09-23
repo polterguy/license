@@ -1,0 +1,9 @@
+
+/*
+ * Startup file for license manager.
+ *
+ * Simply create an Active Event called [license.is-valid] which returns true
+ * if license is valid.
+ */
+create-event:license.is-valid
+  return:bool:true

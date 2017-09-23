@@ -7,3 +7,14 @@
  */
 create-event:license.is-valid
   return:bool:true
+
+
+
+
+
+/*
+ * Creates our version Active Event.
+ */
+create-event:license.version
+
+  return:decimal:5.99

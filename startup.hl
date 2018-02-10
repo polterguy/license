@@ -16,4 +16,4 @@ create-event:license.is-valid
  */
 create-event:license.version
 
-  return:decimal:6.99
+  return:decimal:7.99

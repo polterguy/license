@@ -1,0 +1,13 @@
+/*
+ * Uninstall file.
+ */
+
+
+
+
+
+/*
+ * Deleting all relevant Active Events, and that's it.
+ */
+delete-event:license.is-valid
+delete-event:license.version
